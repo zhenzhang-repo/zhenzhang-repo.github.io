@@ -4,7 +4,7 @@ title: "Professional Activities"
 author_profile: true
 redirect_from: 
   - /Professional Activities/
-  - /Professional Activities.html
+  - /Professional Activities.md
 ---
 Professional Activities
 =======================
@@ -16,3 +16,4 @@ Professional Activities
   - Measurement Science and Technology
   - International Journal of Machine Learning and Cybernetics
   - Machine Learning: Science and Technology
+
