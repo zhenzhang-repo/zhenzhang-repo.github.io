@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Sitemap"
-permalink: /Professional/
+permalink: /Professional Activities/
 author_profile: true
 ---
 Professional Activities
@@ -14,5 +14,6 @@ Professional Activities
   - Measurement Science and Technology
   - International Journal of Machine Learning and Cybernetics
   - Machine Learning: Science and Technology
+
 
 
