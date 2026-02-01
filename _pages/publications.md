@@ -1,10 +1,8 @@
 ---
-permalink: /
+layout: archive
 title: "Publications"
+permalink: /publications/
 author_profile: true
-redirect_from: 
-  - /publications/
-  - /publications.html
 ---
 # Publications
 
@@ -38,3 +36,4 @@ Highlights
 2020
 ====
 1. **Zhen Zhang** and Weiguo Lin*. "A pipeline abnormal signal detection method based on 1D-faster R-CNN." Proceedings of the 6th International Conference on Fuzzy Systems and Data Mining, pp. 340-350, 2020. (EI, Acceptance rate：24%)
+
