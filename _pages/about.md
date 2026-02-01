@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Zhen Zhang (BUCT)"
+title: "About"
 author_profile: true
 redirect_from: 
   - /about/
@@ -26,5 +26,6 @@ Recent news
 - Our paper entitled “A Time Series Self-Supervised Contrastive Pre-Training Method with Data Augmentation using Discrepancy of Reconstruction Information Loss” has been accepted by **IEEE Transactions on Instrumentation and Measurement**.
 - Our paper entitled “Graph Structure Change-Based Anomaly Detection in Multivariate Time Series of Industrial Processes” has been accepted by **IEEE Transactions on Industrial Informatics**.
 - Our paper entitled “Temporal Chain Network with Intuitive Attention Mechanism for Long-Term Series Forecasting” has been accepted by **IEEE Transactions on Instrumentation and Measurement**.
+
 
 
