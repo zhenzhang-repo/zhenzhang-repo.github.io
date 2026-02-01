@@ -4,7 +4,7 @@ title: "Awards"
 author_profile: true
 redirect_from: 
   - /Awards/
-  - /Awards.html
+  - /Awards.md
 ---
 # Awards
 
@@ -14,3 +14,4 @@ redirect_from:
 - **张桢**。国家建设高水平大学公派留学奖学金。国家留学基金委，2024。
 - **张桢**。博士研究生国家奖学金。中华人民共和国教育部，2024。
 - **张桢**，等。第十二届全国大学生恩智浦杯智能汽车竞赛华北赛区二等奖。教育部高等学校自动化类专业教学指导委员会，2017。
+
